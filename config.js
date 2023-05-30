@@ -4,7 +4,7 @@
 const config = {
   style: 'mapbox://styles/iarakistain/cli72tm6q02o401pr1lm04899',
   accessToken:
-    'pk.eyJ1IjoiaWFyYWtpc3RhaW4iLCJhIjoiY2w1a3B3YTMxMGNmbTNjbWd2ZTc3bmkyMiJ9.A9qFkPgG40gFsgruODOWRA',
+    'pk.eyJ1IjoiaWFyYWtpc3RhaW4iLCJhIjoiY2xpYThhaTgxMDE0OTNsbzlydGs1MjNkYiJ9.8iGzdM2OVnC3NKpVatVGqA',
   CSV: './Sample_Data.csv',
   center: [-120.234, 47.398],
   zoom: 6,
