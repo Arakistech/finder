@@ -6,8 +6,8 @@ const config = {
   accessToken:
     'pk.eyJ1IjoiaWFyYWtpc3RhaW4iLCJhIjoiY2xpYThhaTgxMDE0OTNsbzlydGs1MjNkYiJ9.8iGzdM2OVnC3NKpVatVGqA',
   CSV: './Sample_Data.csv',
-  center: [-120.234, 47.398],
-  zoom: 6,
+  center: [55.2156490, 25.0656143],
+  zoom: 12,
   title: 'Dubai Map',
   description:
     ' You can filter the list by business type.',
