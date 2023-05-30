@@ -10,7 +10,7 @@ const config = {
   zoom: 6,
   title: 'Dubai Map',
   description:
-    ' You can also filter the list by business type.',
+    ' You can filter the list by business type.',
   sideBarInfo: ['Location_Name', 'Address', 'Phone'],
   popupInfo: ['Location_Name'],
   filters: [
