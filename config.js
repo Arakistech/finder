@@ -51,9 +51,9 @@ const config = {
     },
     {
       type: 'checkbox',
-      title: 'Devices available: ',
+      title: 'Business type: ',
       columnHeader: 'Devices_available', // Case sensitive - must match spreadsheet entry
-      listItems: ['Computer', 'Wi-Fi', 'Adaptive Laptops'], // Case sensitive - must match spreadsheet entry; This will take up to six inputs but is best used with a maximum of three;
+      listItems: ['Gym', 'Sport', 'Educational'], // Case sensitive - must match spreadsheet entry; This will take up to six inputs but is best used with a maximum of three;
     },
     {
       type: 'dropdown',
